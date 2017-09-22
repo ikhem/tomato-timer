@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-size: 60px;
+  color: white;
+}
+
+.Lengths {  
+  display: flex;
+  justify-content: space-around;
+  font-size: 18px;
+}
+
+Breaklength {
+  border: 4px solid black;
+}
+
+Sessionlength {
+  border: 4px solid blue;
+}
+
+.Session {
+  margin: 0 auto;
+  padding: 50px;
+  border-radius: 50%;
+  border: 3px solid green;
+}
+
+.Time {
+  display: flex;
+  justify-content: space-around;
+  font-size: 32px;
+}
