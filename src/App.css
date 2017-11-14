@@ -5,6 +5,7 @@
   text-align: center;
   font-size: 60px;
   color: white;
+  height: 600px;
 }
 
 .Lengths {  
@@ -13,19 +14,21 @@
   font-size: 18px;
 }
 
-Breaklength {
+/* .Breaklength {
   border: 4px solid black;
 }
 
-Sessionlength {
+.Sessionlength {
   border: 4px solid blue;
-}
+} */
 
 .Session {
+  height: 275px;
+  width: 275px;
   margin: 0 auto;
   padding: 50px;
   border-radius: 50%;
-  border: 3px solid green;
+  border: 3px solid #99CC00;
 }
 
 .Time {
